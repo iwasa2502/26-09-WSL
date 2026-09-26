@@ -1,6 +1,10 @@
 # 1. WSL
 
-## 1.1. Container
+## 1.1. WSL container CLI
+
+```
+wslc.exe --help
+```
 
 ## 1.2. Setting
 
