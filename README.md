@@ -19,3 +19,7 @@ wsl.exe --update
 ```
 wsl.exe --update --pre-release
 ```
+
+```
+wsl.exe --version
+```
