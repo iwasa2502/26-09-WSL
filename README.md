@@ -6,6 +6,10 @@
 wslc.exe --help
 ```
 
+```
+wslc.exe settings
+```
+
 ## 1.2. Setting
 
 ```
@@ -27,3 +31,5 @@ wsl.exe --update --pre-release
 ```
 wsl.exe --version
 ```
+
+### 1.2.1. \wslc\settings.yaml
