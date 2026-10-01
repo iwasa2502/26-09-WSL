@@ -8,11 +8,15 @@
 wslc.exe --help
 ```
 
+## 1.2. Setting
+
 ```
 wslc.exe settings
 ```
 
-## 1.2. Setting
+### 1.2.1. \wslc\settings.yaml
+
+## 1.3. init
 
 ```
 wsl.exe --help
@@ -33,5 +37,3 @@ wsl.exe --update --pre-release
 ```
 wsl.exe --version
 ```
-
-### 1.2.1. \wslc\settings.yaml
