@@ -8,6 +8,10 @@
 wslc.exe --help
 ```
 
+```
+wslc.exe --version
+```
+
 ## 1.2. Setting
 
 ```
