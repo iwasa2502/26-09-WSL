@@ -16,7 +16,6 @@ session:
   # <storagePath>\wslc\sessions\<session>\storage.vhdx. Must be an absolute path (e.g. D:\data default: %LOCALAPPDATA%). Changing this after a session already exists does not move existing storage, containers, or
   # images; the previous location is left in place and a new empty session is created at the new path.
   # storagePath: default
-  storagePath: F:\60_WSL\00_Container
 
   # Default host address that published ports bind to when 'container run -p' is
   # used without an explicit address (default: 127.0.0.1)
